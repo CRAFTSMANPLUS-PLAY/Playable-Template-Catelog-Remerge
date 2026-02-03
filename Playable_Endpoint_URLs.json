@@ -1,1154 +1,695 @@
 [
   {
-    "Genre": "Gaming",
     "Title": "Item Slicer",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FNeRCpLeVKNh%2F1991726563&companyId=ATtIV70kACD&creativeId=NeRCpLeVKNh&name=Item%20Slicer%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/NeRCpLeVKNh/1991726563/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "item-slicer.png"
   },
   {
-    "Genre": null,
+   "Title": "Platform Runner",
+    "Genre": "Gaming",
+    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FNeRCpLeVKNh%2F1991726563&companyId=ATtIV70kACD&creativeId=NeRCpLeVKNh&name=Item%20Slicer%20-%20Simple&portrait=true&ratio=2:1",
+    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/n21dwLve26m/1953857009/index.html",
+    "thumbnail": "platform-runner.png"
+  },
+  {
     "Title": "Memory",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/?playable=ATtIV70kACD%2F9UZQ9NQXhLv%2F996774169&companyId=ATtIV70kACD&creativeId=9UZQ9NQXhLv&name=Memory%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/9UZQ9NQXhLv/996774169/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "memory.png"
   },
   {
-    "Genre": null,
     "Title": "Item Catcher",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/?playable=ATtIV70kACD%2FnaPv3wpsepn%2F155967409&companyId=ATtIV70kACD&creativeId=naPv3wpsepn&name=Item%20Catcher%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/naPv3wpsepn/155967409/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "item-catcher.png"
   },
   {
-    "Genre": null,
     "Title": "Solitaire",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FizJC8QhCHOx%2F639277993&companyId=ATtIV70kACD&creativeId=izJC8QhCHOx&name=Spider%20Solitaire%20(3-moves)&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/izJC8QhCHOx/639277993/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "solitaire.png"
   },
   {
-    "Genre": null,
     "Title": "Block Puzzle",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fe4pXg3tA6xy%2F1186855262&companyId=ATtIV70kACD&creativeId=e4pXg3tA6xy&name=Block%20Puzzle%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/e4pXg3tA6xy/1186855262/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "block-puzzle.png"
   },
   {
-    "Genre": null,
     "Title": "Character Builder",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FjHW1gGUq1YN%2F69255045&companyId=ATtIV70kACD&creativeId=jHW1gGUq1YN&name=Character%20Builder%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/jHW1gGUq1YN/69255045/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "character-builder.png"
   },
   {
-    "Genre": null,
     "Title": "Slots",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F88cYjifeqm6%2F1372890448&companyId=ATtIV70kACD&creativeId=88cYjifeqm6&name=Slots%20(3%20Spins)&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/88cYjifeqm6/1372890448/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "slots.png"
   },
   {
-    "Genre": null,
     "Title": "Spot the Difference",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FQ8fbHxxnroi%2F1575461308&companyId=ATtIV70kACD&creativeId=Q8fbHxxnroi&name=Spot%20the%20Difference%20-%203&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/Q8fbHxxnroi/1575461308/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "spot-the-difference.png"
   },
   {
-    "Genre": null,
     "Title": "Slide Puzzle",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FhlNrfoUeDYJ%2F358694196&companyId=ATtIV70kACD&creativeId=hlNrfoUeDYJ&name=Slide%20Puzzle%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/hlNrfoUeDYJ/358694196/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "slide-puzzle.png"
   },
   {
-    "Genre": null,
     "Title": "Spin the Wheel",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FBwcdKcPDevO%2F1762579282&companyId=ATtIV70kACD&creativeId=BwcdKcPDevO&name=Spin%20the%20Wheel%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/BwcdKcPDevO/1762579282/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "spin-the-wheel.png"
   },
   {
-    "Genre": null,
     "Title": "Character Selector",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FiZWF7h08wY9%2F698195563&companyId=ATtIV70kACD&creativeId=iZWF7h08wY9&name=Character%20Selector%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/iZWF7h08wY9/698195563/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "character-selector.png"
   },
   {
-    "Genre": null,
     "Title": "Stop the Light",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FCof5ozImqNB%2F221803366&companyId=ATtIV70kACD&creativeId=Cof5ozImqNB&name=Stop%20The%20Light&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/Cof5ozImqNB/221803366/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "stop-the-light.png"
   },
   {
-    "Genre": null,
     "Title": "Glass Break",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F0WAhExlZcaL%2F1262155542&companyId=ATtIV70kACD&creativeId=0WAhExlZcaL&name=Glass%20Break%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/0WAhExlZcaL/1262155542/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "glass-break.png"
   },
   {
-    "Genre": null,
     "Title": "Character Customizer",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F7YEJHm34YUa%2F1720218351&companyId=ATtIV70kACD&creativeId=7YEJHm34YUa&name=Character%20Customizer%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/7YEJHm34YUa/1720218351/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "character-customizer.png"
   },
   {
-    "Genre": null,
     "Title": "Drag and Drop",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F8HvEwQoXMYB%2F1844420119&companyId=ATtIV70kACD&creativeId=8HvEwQoXMYB&name=Drag%20%26%20Drop%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/8HvEwQoXMYB/1844420119/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "drag-and-drop.png"
   },
   {
-    "Genre": null,
     "Title": "Endless Runner",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F5TN2rui1HiB%2F314442967&companyId=ATtIV70kACD&creativeId=5TN2rui1HiB&name=Endless%20Runner%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/5TN2rui1HiB/314442967/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "endless-runner.png"
   },
   {
-    "Genre": null,
     "Title": "Hidden Objects",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F7oraGRIylMW%2F426270317&companyId=ATtIV70kACD&creativeId=7oraGRIylMW&name=Hidden%20Objects%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/7oraGRIylMW/426270317/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "hidden-objects.png"
   },
   {
-    "Genre": null,
     "Title": "Spot the Thing",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FLedUuVmiUpb%2F1260320720&companyId=ATtIV70kACD&creativeId=LedUuVmiUpb&name=Spot%20the%20Thing%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/LedUuVmiUpb/1260320720/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "spot-the-thing.png"
   },
   {
-    "Genre": null,
     "Title": "Choose Your Adventure",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F996i7yw9e2y%2F1131399941&companyId=ATtIV70kACD&creativeId=996i7yw9e2y&name=Choose%20Your%20Adventure%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/996i7yw9e2y/1131399941/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "choose-your-adventure.png"
   },
   {
-    "Genre": null,
     "Title": "Anagram Word Game",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FznD7OEmOugQ%2F884145961&companyId=ATtIV70kACD&creativeId=znD7OEmOugQ&name=Anagram%20Word%20Game%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/znD7OEmOugQ/884145961/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "anagram-word-game.png"
   },
   {
-    "Genre": null,
     "Title": "Choices",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F3lJJ4MvS3Ko%2F1075215466&companyId=ATtIV70kACD&creativeId=3lJJ4MvS3Ko&name=Choices%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/3lJJ4MvS3Ko/1075215466/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "choices.png"
   },
   {
-    "Genre": null,
     "Title": "Alien Escape",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FCQMl2Rgxlph%2F36832154&companyId=ATtIV70kACD&creativeId=CQMl2Rgxlph&name=Alien%20Escape%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/CQMl2Rgxlph/36832154/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "alien-escape.png"
   },
   {
-    "Genre": null,
-    "Title": "Thre Cup Shuffle",
+    "Title": "Three Cup Shuffle",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F9Vx6xgfE1HP%2F1565826677&companyId=ATtIV70kACD&creativeId=9Vx6xgfE1HP&name=Three%20Cup%20Shuffle%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/9Vx6xgfE1HP/1565826677/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "thre-cup-shuffle.png"
+    "thumbnail": "three-cup-shuffle.png"
   },
   {
-    "Genre": null,
     "Title": "Three Card Monte",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FD7pe07nnHCo%2F1033046756&companyId=ATtIV70kACD&creativeId=D7pe07nnHCo&name=New%20Project%201&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/D7pe07nnHCo/1033046756/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "three-card-monte.png"
   },
   {
-    "Genre": null,
     "Title": "Character Upgrade",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FcAcvogz2Bxl%2F1920100428&companyId=ATtIV70kACD&creativeId=cAcvogz2Bxl&name=Character%20Upgrade%20-%20Two%20Upgrades&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/cAcvogz2Bxl/1920100428/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "character-upgrade.png"
   },
   {
-    "Genre": null,
     "Title": "Swap Match 3",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fm0tppAiw5Qu%2F1820284044&companyId=ATtIV70kACD&creativeId=m0tppAiw5Qu&name=Swap%20Match%203%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/m0tppAiw5Qu/1820284044/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "swap-match-3.png"
   },
   {
-    "Genre": null,
     "Title": "Home Decor",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FHM0GWBjuKx9%2F159730565&companyId=ATtIV70kACD&creativeId=HM0GWBjuKx9&name=Home%20Decor%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/HM0GWBjuKx9/159730565/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "home-decor.png"
   },
   {
-    "Genre": null,
     "Title": "Plinko",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FU8Mnfwwgs4k%2F157845651&companyId=ATtIV70kACD&creativeId=U8Mnfwwgs4k&name=Plinko%20-%20Drag%20to%20Choose&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/U8Mnfwwgs4k/157845651/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "plinko.png"
   },
   {
-    "Genre": null,
-    "Title": "Card Camge Carousel",
+    "Title": "Cards and Carousel",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fy9MuaCtEEFa%2F1308318799&companyId=ATtIV70kACD&creativeId=y9MuaCtEEFa&name=Characters%20and%20Carousel&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/y9MuaCtEEFa/1308318799/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
-    "thumbnail": "card-camge-carousel.png"
+    "thumbnail": "cards-and-carousel.png"
   },
   {
-    "Genre": null,
     "Title": "Wipe Away",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FrbfpGl2Bak6%2F1068303471&companyId=ATtIV70kACD&creativeId=rbfpGl2Bak6&name=Wipe%20Away%20-%20Simple&portrait=true&ratio=2:1",
-    "Endpoint URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FrbfpGl2Bak6%2F1068303471&companyId=ATtIV70kACD&creativeId=rbfpGl2Bak6&name=Wipe%20Away%20-%20Simple&portrait=true&ratio=2:1",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
+    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/rbfpGl2Bak6/1068303471/index.html",
     "thumbnail": "wipe-away.png"
   },
   {
-    "Genre": null,
     "Title": "Coloring Book",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FYxYp7G3e3nc%2F513869662&companyId=ATtIV70kACD&creativeId=YxYp7G3e3nc&name=Coloring%20Book%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/YxYp7G3e3nc/513869662/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "coloring-book.png"
   },
   {
-    "Genre": null,
     "Title": "Treasure Hunter",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FMhIMYiJm27j%2F849507683&companyId=ATtIV70kACD&creativeId=MhIMYiJm27j&name=Treasure%20Hunter%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/MhIMYiJm27j/849507683/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "treasure-hunter.png"
   },
   {
-    "Genre": null,
     "Title": "Scratchers",
+    "Genre": "Gaming",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FGTMk2IRrTun%2F208684412&companyId=ATtIV70kACD&creativeId=GTMk2IRrTun&name=Scratchers%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/GTMk2IRrTun/208684412/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "scratchers.png"
   },
   {
-    "Genre": "Quizzes",
     "Title": "Recipe Builder",
+    "Genre": "Quizzes",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FcOpaNcsaQXy%2F336518091&companyId=ATtIV70kACD&creativeId=cOpaNcsaQXy&name=Recipe%20Builder%20-%203%20Items&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/cOpaNcsaQXy/336518091/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "recipe-builder.png"
   },
   {
-    "Genre": null,
     "Title": "Find the Outlier",
+    "Genre": "Quizzes",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FTIli8br5WjE%2F753068104&companyId=ATtIV70kACD&creativeId=TIli8br5WjE&name=Find%20The%20Outlier&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/TIli8br5WjE/753068104/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "find-the-outlier.png"
   },
   {
-    "Genre": null,
     "Title": "Text Survey",
+    "Genre": "Quizzes",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FLeXBdW3wNLj%2F823548770&companyId=ATtIV70kACD&creativeId=LeXBdW3wNLj&name=Text%20Survey%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/LeXBdW3wNLj/823548770/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "text-survey.png"
   },
   {
-    "Genre": null,
     "Title": "Image Survey",
+    "Genre": "Quizzes",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FpalTB1ogDJx%2F174233208&companyId=ATtIV70kACD&creativeId=palTB1ogDJx&name=Image%20Survey%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/palTB1ogDJx/174233208/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "image-survey.png"
   },
   {
-    "Genre": null,
     "Title": "Text Quiz",
+    "Genre": "Quizzes",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FaCfKQYO3CO5%2F837507613&companyId=ATtIV70kACD&creativeId=aCfKQYO3CO5&name=Text%20Quiz%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/aCfKQYO3CO5/837507613/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "text-quiz.png"
   },
   {
-    "Genre": null,
     "Title": "Image Quiz",
+    "Genre": "Quizzes",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FimCm02BWTAJ%2F1845251147&companyId=ATtIV70kACD&creativeId=imCm02BWTAJ&name=Image%20Quiz%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/imCm02BWTAJ/1845251147/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "image-quiz.png"
   },
   {
-    "Genre": "E-Comm",
     "Title": "Product Carousel",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FG76Gvjec34L%2F922133332&companyId=ATtIV70kACD&creativeId=G76Gvjec34L&name=Product%20Carousel%20A%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/G76Gvjec34L/922133332/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "product-carousel.png"
   },
   {
-    "Genre": null,
     "Title": "Carousel",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F7thDtzcvgY4%2F495725338&companyId=ATtIV70kACD&creativeId=7thDtzcvgY4&name=Carousel%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/7thDtzcvgY4/495725338/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "carousel.png"
   },
   {
-    "Genre": null,
     "Title": "Slide to Reveal",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F89AN01RGYUM%2F1753995605&companyId=ATtIV70kACD&creativeId=89AN01RGYUM&name=Slide%20to%20Reveal%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/89AN01RGYUM/1753995605/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "slide-to-reveal.png"
   },
   {
-    "Genre": null,
     "Title": "Product Cleaner",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FiXElS7t3AwF%2F972765460&companyId=ATtIV70kACD&creativeId=iXElS7t3AwF&name=Product%20Cleaner%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/iXElS7t3AwF/972765460/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "product-cleaner.png"
   },
   {
-    "Genre": null,
     "Title": "Shopping Cart",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FbGcCmR2rmeb%2F588399045&companyId=ATtIV70kACD&creativeId=bGcCmR2rmeb&name=Shopping%20Cart%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/bGcCmR2rmeb/588399045/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "shopping-cart.png"
   },
   {
-    "Genre": null,
     "Title": "Product Comparison",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FfEHnvOwPlJj%2F1411088092&companyId=ATtIV70kACD&creativeId=fEHnvOwPlJj&name=Product%20Comparison%20-%202%20Products&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/fEHnvOwPlJj/1411088092/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "product-comparison.png"
   },
   {
-    "Genre": null,
-    "Title": "Builld Your Bowl",
+    "Title": "Build Your Bowl",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fj0hvIXeG9JR%2F638595061&companyId=ATtIV70kACD&creativeId=j0hvIXeG9JR&name=Build%20Your%20Bowl%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/j0hvIXeG9JR/638595061/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
-    "thumbnail": "builld-your-bowl.png"
+    "thumbnail": "build-your-bowl.png"
   },
   {
-    "Genre": null,
     "Title": "Photo Tune",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fg7eWmR4dvK8%2F1746584998&companyId=ATtIV70kACD&creativeId=g7eWmR4dvK8&name=Photo%20Tune%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/g7eWmR4dvK8/1746584998/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "photo-tune.png"
   },
   {
-    "Genre": null,
     "Title": "Beauty Colors",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FuMGLQPwmOfA%2F135053546&companyId=ATtIV70kACD&creativeId=uMGLQPwmOfA&name=Beauty%20Colors%20-%20Three%20Colors&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/uMGLQPwmOfA/135053546/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "beauty-colors.png"
   },
   {
-    "Genre": null,
     "Title": "Sale Countdown",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FqG9QjcSo5sa%2F1529201954&companyId=ATtIV70kACD&creativeId=qG9QjcSo5sa&name=Sale%20Countdown%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/qG9QjcSo5sa/1529201954/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "sale-countdown.png"
   },
   {
-    "Genre": null,
-    "Title": "Cleanup",
+    "Title": "Clea Up",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FWq4lJ2EKtZ6%2F1201955757&companyId=ATtIV70kACD&creativeId=Wq4lJ2EKtZ6&name=Cleanup%20-%20Auto-spill&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/Wq4lJ2EKtZ6/1201955757/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "cleanup.png"
+    "thumbnail": "clean-up.png"
   },
   {
-    "Genre": null,
     "Title": "Makeup",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FNQU6KM9nwPY%2F40205955&companyId=ATtIV70kACD&creativeId=NQU6KM9nwPY&name=Makeup%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/NQU6KM9nwPY/40205955/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "makeup.png"
   },
   {
-    "Genre": null,
     "Title": "Scrollable",
+    "Genre": "E-Comm",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FqSkTFWwhaRx%2F1663481113&companyId=ATtIV70kACD&creativeId=qSkTFWwhaRx&name=Scrollable%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/qSkTFWwhaRx/1663481113/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "scrollable.png"
   },
   {
-    "Genre": "Dynamic",
     "Title": "Time of Day",
+    "Genre": "Dynamic",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FbHvhKx6LbKC%2F693760224&companyId=ATtIV70kACD&creativeId=bHvhKx6LbKC&name=Time%20Of%20Day%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/bHvhKx6LbKC/693760224/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "time-of-day.png"
   },
   {
-    "Genre": null,
     "Title": "Day of Week",
+    "Genre": "Dynamic",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FALexOrJk21I%2F97955120&companyId=ATtIV70kACD&creativeId=ALexOrJk21I&name=Day%20of%20the%20Week%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/ALexOrJk21I/97955120/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "day-of-week.png"
   },
   {
-    "Genre": null,
     "Title": "Months",
+    "Genre": "Dynamic",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FN3wRt4mfQyA%2F1525802865&companyId=ATtIV70kACD&creativeId=N3wRt4mfQyA&name=Months%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/N3wRt4mfQyA/1525802865/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "months.png"
   },
   {
-    "Genre": null,
     "Title": "Seasons",
+    "Genre": "Dynamic",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FDZp7vlz3PQK%2F1483889765&companyId=ATtIV70kACD&creativeId=DZp7vlz3PQK&name=Seasons%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/DZp7vlz3PQK/1483889765/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "seasons.png"
   },
   {
-    "Genre": null,
     "Title": "System",
+    "Genre": "Dynamic",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FEwfXuwCPbI7%2F401673749&companyId=ATtIV70kACD&creativeId=EwfXuwCPbI7&name=System%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/EwfXuwCPbI7/401673749/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "system.png"
   },
   {
-    "Genre": null,
     "Title": "System & Platform",
+    "Genre": "Dynamic",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FbWDD3H2P5x5%2F357287186&companyId=ATtIV70kACD&creativeId=bWDD3H2P5x5&name=System%20%2B%20Platform%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/bWDD3H2P5x5/357287186/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "system-&-platform.png"
+    "thumbnail": "system-and-platform.png"
   },
   {
-    "Genre": "iFrame",
     "Title": "iFrame - Spotify",
+    "Genre": "iFrame",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FlmJ303WjhEQ%2F646444982&companyId=ATtIV70kACD&creativeId=lmJ303WjhEQ&name=iFrame%20-%20Spotify&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/lmJ303WjhEQ/646444982/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "iframe---spotify.png"
+    "thumbnail": "iframe-spotify.png"
   },
   {
-    "Genre": null,
     "Title": "iFrame - E-commerce",
+    "Genre": "iFrame",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F5Vw6X4Nb7zI%2F868914121&companyId=ATtIV70kACD&creativeId=5Vw6X4Nb7zI&name=iFrame%20-%20ECommerce&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/5Vw6X4Nb7zI/868914121/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "iframe---e-commerce.png"
+    "thumbnail": "iframe-e-commerce.png"
   },
   {
-    "Genre": null,
     "Title": "iFrame - Movie Trailer",
+    "Genre": "iFrame",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FL12LUFWcpaQ%2F1664086474&companyId=ATtIV70kACD&creativeId=L12LUFWcpaQ&name=iFrame%20-%20Movie%20Trailer&portrait=true&ratio=2:1",
-    "Endpoint URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FL12LUFWcpaQ%2F1664086474&companyId=ATtIV70kACD&creativeId=L12LUFWcpaQ&name=iFrame%20-%20Movie%20Trailer&portrait=true&ratio=2:1",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "iframe---movie-trailer.png"
+    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/L12LUFWcpaQ/1664086474/index.html",
+    "thumbnail": "iframe-movie-trailer.png"
   },
   {
-    "Genre": "FinTech",
     "Title": "Finance Slicer",
+    "Genre": "FinTech",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fn0agWktczby%2F1913107885&companyId=ATtIV70kACD&creativeId=n0agWktczby&name=Finance%20Slicer%20-%20Gift%20Cards&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/n0agWktczby/1913107885/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "finance-slicer.png"
   },
   {
-    "Genre": null,
     "Title": "Finance Literacy",
+    "Genre": "FinTech",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FVmaQt75APuH%2F915985850&companyId=ATtIV70kACD&creativeId=VmaQt75APuH&name=Financial%20Literacy%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/VmaQt75APuH/915985850/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "finance-literacy.png"
   },
   {
-    "Genre": null,
     "Title": "Budget Balancer",
+    "Genre": "FinTech",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F2VFUCVIBiwy%2F1216368997&companyId=ATtIV70kACD&creativeId=2VFUCVIBiwy&name=Budget%20Balancer%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/2VFUCVIBiwy/1216368997/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "budget-balancer.png"
   },
   {
-    "Genre": null,
     "Title": "Card Benefits",
+    "Genre": "FinTech",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FYpioGazfQQ0%2F1714899290&companyId=ATtIV70kACD&creativeId=YpioGazfQQ0&name=Card%20Benefits%20-%20Three%20Cards&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/2VFUCVIBiwy/1216368997/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "card-benefits.png"
   },
   {
-    "Genre": "Travel & Entertainment",
     "Title": "Drag to Play Video",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FOIM2OyrpiaD%2F1391206053&companyId=ATtIV70kACD&creativeId=OIM2OyrpiaD&name=Drag%20Video%20-%20Coin&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/OIM2OyrpiaD/1391206053/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "drag-to-play-video.png"
   },
   {
-    "Genre": null,
     "Title": "Home Entertainment",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FJFUmTjfRm5E%2F288153109&companyId=ATtIV70kACD&creativeId=JFUmTjfRm5E&name=Home%20Entertainment&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/JFUmTjfRm5E/288153109/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "home-entertainment.png"
   },
   {
-    "Genre": null,
     "Title": "Choose Your Trailer",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FcwdOnwPUnkZ%2F1923257294&companyId=ATtIV70kACD&creativeId=cwdOnwPUnkZ&name=Choose%20Your%20Trailer%20-%202%20Movies&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/cwdOnwPUnkZ/1923257294/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "choose-your-trailer.png"
   },
   {
-    "Genre": null,
     "Title": "Destination Reveal",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FHmDj2MZbA9Q%2F39159268&companyId=ATtIV70kACD&creativeId=HmDj2MZbA9Q&name=Destination%20Reveal%20-%203&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/HmDj2MZbA9Q/39159268/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "destination-reveal.png"
   },
   {
-    "Genre": null,
     "Title": "Map Selector",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FxcIlELeeHCh%2F200701714&companyId=ATtIV70kACD&creativeId=xcIlELeeHCh&name=Map%20Selector&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/xcIlELeeHCh/200701714/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "map-selector.png"
   },
   {
-    "Genre": null,
     "Title": "Travel Carousel",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FpyqjORkv9ea%2F136309481&companyId=ATtIV70kACD&creativeId=pyqjORkv9ea&name=Travel%20Carousel%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/pyqjORkv9ea/136309481/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "travel-carousel.png"
   },
   {
-    "Genre": null,
     "Title": "View From My Seat",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FTJweQBQ3CV8%2F1871383910&companyId=ATtIV70kACD&creativeId=TJweQBQ3CV8&name=View%20From%20My%20Seat&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/TJweQBQ3CV8/1871383910/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "view-from-my-seat.png"
   },
   {
-    "Genre": null,
     "Title": "News Reader",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FPsPBtHBWN13%2F70600467&companyId=ATtIV70kACD&creativeId=PsPBtHBWN13&name=News%20Reader%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/PsPBtHBWN13/70600467/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "news-reader.png"
   },
   {
-    "Genre": null,
     "Title": "Dating",
+    "Genre": "Travel & Entertainment",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FIdbNJtQysld%2F663598802&companyId=ATtIV70kACD&creativeId=IdbNJtQysld&name=Dating%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/IdbNJtQysld/663598802/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "dating.png"
   },
   {
+    "Title": "Choose Your Team",
     "Genre": "Sports",
-    "Title": "Choose you Team",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FsMAo9pRJSGo%2F1504490046&companyId=ATtIV70kACD&creativeId=sMAo9pRJSGo&name=Choose%20Your%20Team&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/sMAo9pRJSGo/1504490046/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "choose-you-team.png"
+    "thumbnail": "choose-your-team.png"
   },
   {
-    "Genre": null,
     "Title": "Pool",
+    "Genre": "Sports",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FWbu5QhcbboM%2F1437968614&companyId=ATtIV70kACD&creativeId=Wbu5QhcbboM&name=Pool%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/Wbu5QhcbboM/1437968614/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "pool.png"
   },
   {
-    "Genre": null,
     "Title": "Field Goal",
+    "Genre": "Sports",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F87xGtpPBawN%2F309850024&companyId=ATtIV70kACD&creativeId=87xGtpPBawN&name=Field%20Goal%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/87xGtpPBawN/309850024/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "field-goal.png"
   },
   {
-    "Genre": null,
     "Title": "Fishing Game",
+    "Genre": "Sports",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fv8AoYITsHNb%2F2089904723&companyId=ATtIV70kACD&creativeId=v8AoYITsHNb&name=Fishing%20Game%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/v8AoYITsHNb/2089904723/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "fishing-game.png"
   },
   {
-    "Genre": "IECs",
     "Title": "Dual Destinations",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FkpY3SGmW1jL%2F1077723229&companyId=ATtIV70kACD&creativeId=kpY3SGmW1jL&name=Dual%20Destinations&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/kpY3SGmW1jL/1077723229/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "dual-destinations.png"
   },
   {
-    "Genre": null,
     "Title": "Tap Video",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fti1TfdeBYvN%2F1786717399&companyId=ATtIV70kACD&creativeId=ti1TfdeBYvN&name=Tap%20Video&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/ti1TfdeBYvN/1786717399/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "tap-video.png"
   },
   {
-    "Genre": null,
     "Title": "Travel Screensaver",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FdoyUYGTTLhs%2F398038825&companyId=ATtIV70kACD&creativeId=doyUYGTTLhs&name=Travel%20Screensaver&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/doyUYGTTLhs/398038825/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "travel-screensaver.png"
   },
   {
-    "Genre": null,
     "Title": "Video Thumbnail",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F7RGHovEcWEa%2F1404503929&companyId=ATtIV70kACD&creativeId=7RGHovEcWEa&name=Video%20Thumbnail%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/7RGHovEcWEa/1404503929/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "video-thumbnail.png"
   },
   {
-    "Genre": null,
     "Title": "Automatic Carousel",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FBcstZ8TGusE%2F728032074&companyId=ATtIV70kACD&creativeId=BcstZ8TGusE&name=Automatic%20Carousel%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/BcstZ8TGusE/728032074/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "automatic-carousel.png"
   },
   {
-    "Genre": null,
     "Title": "Characters",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FoyK6XSDiIWD%2F1759163752&companyId=ATtIV70kACD&creativeId=oyK6XSDiIWD&name=Characters%20-%20Variant%201&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/oyK6XSDiIWD/1759163752/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "characters.png"
   },
   {
-    "Genre": null,
     "Title": "Character Carousel",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/?playable=ATtIV70kACD%2FRdx2OCzJEXZ%2F1299028405&companyId=ATtIV70kACD&creativeId=Rdx2OCzJEXZ&name=Character%20Carousel&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/Rdx2OCzJEXZ/1299028405/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "character-carousel.png"
   },
   {
-    "Genre": null,
     "Title": "Video Countdown",
+    "Genre": "IECs",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FSiu4HYnLSyQ%2F586073651&companyId=ATtIV70kACD&creativeId=Siu4HYnLSyQ&name=Video%20Countdown%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/Siu4HYnLSyQ/586073651/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "video-countdown.png"
   },
   {
-    "Genre": "Holiday",
     "Title": "Press Your Luck",
+    "Genre": "Holiday",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Flkq4Wh0O3qU%2F653077710&companyId=ATtIV70kACD&creativeId=lkq4Wh0O3qU&name=Press%20Your%20Luck%20-%20Random&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/lkq4Wh0O3qU/653077710/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "press-your-luck.png"
   },
   {
-    "Genre": null,
     "Title": "Elevator Escape",
+    "Genre": "Holiday",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F9T5rLB3WheV%2F1492763545&companyId=ATtIV70kACD&creativeId=9T5rLB3WheV&name=Elevator%20Escape%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/9T5rLB3WheV/1492763545/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "elevator-escape.png"
   },
   {
-    "Genre": null,
     "Title": "New Year Countdown",
+    "Genre": "Holiday",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fop2yEggJHbW%2F1002949548&companyId=ATtIV70kACD&creativeId=op2yEggJHbW&name=New%20Year%20Countdown%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/op2yEggJHbW/1002949548/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "new-year-countdown.png"
   },
   {
-    "Genre": null,
     "Title": "Costume Select",
+    "Genre": "Holiday",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F4tr7EXfkuuA%2F1256749257&companyId=ATtIV70kACD&creativeId=4tr7EXfkuuA&name=Costume%20Select%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/4tr7EXfkuuA/1256749257/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "costume-select.png"
   },
   {
-    "Genre": "Automotive",
     "Title": "Test Drive",
+    "Genre": "Automotive",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FsBVgAXFQc4R%2F1934519601&companyId=ATtIV70kACD&creativeId=sBVgAXFQc4R&name=Test%20Drive%20-%20Advanced&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/sBVgAXFQc4R/1934519601/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "test-drive.png"
   },
   {
-    "Genre": null,
     "Title": "Windshield Wiper",
+    "Genre": "Automotive",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FTAwk0N3rGGc%2F1383410443&companyId=ATtIV70kACD&creativeId=TAwk0N3rGGc&name=Windshield%20Wiper%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/TAwk0N3rGGc/1383410443/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "windshield-wiper.png"
   },
   {
-    "Genre": null,
     "Title": "Car Colors",
+    "Genre": "Automotive",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FsNLlbMmAgXR%2F694822893&companyId=ATtIV70kACD&creativeId=sNLlbMmAgXR&name=Car%20Colors%20-%20Automatic&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/sNLlbMmAgXR/694822893/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "car-colors.png"
   },
   {
-    "Genre": null,
     "Title": "Tap to Repair",
+    "Genre": "Automotive",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FifqqhqXjhX2%2F993095138&companyId=ATtIV70kACD&creativeId=ifqqhqXjhX2&name=Tap%20to%20Repair%20-%20Simple&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/ifqqhqXjhX2/993095138/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "tap-to-repair.png"
   },
   {
+    "Title": "Back-to-back Videos",
     "Genre": "Video",
-    "Title": "Back-to-back Bideos",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FO0uCCdDUjwd%2F84368394&companyId=ATtIV70kACD&creativeId=O0uCCdDUjwd&name=Back-to-back%20Videos&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/O0uCCdDUjwd/84368394/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
-    "thumbnail": "back-to-back-bideos.png"
+    "thumbnail": "back-to-back-videos.png"
   },
   {
-    "Genre": null,
     "Title": "Video vs. Video",
+    "Genre": "Video",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FopXfVI3ajif%2F155331355&companyId=ATtIV70kACD&creativeId=opXfVI3ajif&name=Video%20vs%20Video&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/opXfVI3ajif/155331355/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "video-vs-video.png"
   },
   {
-    "Genre": null,
     "Title": "Engaging Video",
+    "Genre": "Video",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FE1uGbdbzI9a%2F1404682528&companyId=ATtIV70kACD&creativeId=E1uGbdbzI9a&name=Engaging%20Video&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/E1uGbdbzI9a/1404682528/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": null,
     "thumbnail": "engaging-video.png"
   },
   {
-    "Genre": null,
     "Title": "Hidden Video",
+    "Genre": "Video",
     "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FVUOOy3wq7rL%2F524435921&companyId=ATtIV70kACD&creativeId=VUOOy3wq7rL&name=Hidden%20Video&portrait=true&ratio=2:1",
     "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/VUOOy3wq7rL/524435921/index.html",
-    "Complex / Advanced Option": true,
-    "Unnamed: 5": null,
     "thumbnail": "hidden-video.png"
-  },
-  {
-    "Genre": "Gaming - Casual",
-    "Title": "Character - Gaming Casual",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FqNLPObgo3LP%2F1820353386&companyId=ATtIV70kACD&creativeId=qNLPObgo3LP&name=Character%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/qNLPObgo3LP/1820353386/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "character---gaming-casual.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Video - Gaming Casual",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FPk8snyRl2v9%2F351368676&companyId=ATtIV70kACD&creativeId=Pk8snyRl2v9&name=Video%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/Pk8snyRl2v9/351368676/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "video---gaming-casual.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Slideshow - Gaming Casual",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FF2y1kog5Xq0%2F490347157&companyId=ATtIV70kACD&creativeId=F2y1kog5Xq0&name=Slideshow%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/F2y1kog5Xq0/490347157/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "slideshow---gaming-casual.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Device - Gaming Casual",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FhWx9AXTlVGD%2F1111170831&companyId=ATtIV70kACD&creativeId=hWx9AXTlVGD&name=Device%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/hWx9AXTlVGD/1111170831/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "device---gaming-casual.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Product - Gaming Casual",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F4BPkgLF27Lx%2F1237875024&companyId=ATtIV70kACD&creativeId=4BPkgLF27Lx&name=Device%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/4BPkgLF27Lx/1237875024/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "product---gaming-casual.png"
-  },
-  {
-    "Genre": "Gaming - Midcore",
-    "Title": "Video - Gaming Midcore",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FXmTemWLVMgE%2F70640852&companyId=ATtIV70kACD&creativeId=XmTemWLVMgE&name=Product%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/XmTemWLVMgE/70640852/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "video---gaming-midcore.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Character - Gaming Midcore",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FfR6V21JZ7ZL%2F1356176352&companyId=ATtIV70kACD&creativeId=fR6V21JZ7ZL&name=Character%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/fR6V21JZ7ZL/1356176352/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "character---gaming-midcore.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Slideshow - Gaming Midcore",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FTRheWoq8dHa%2F952349328&companyId=ATtIV70kACD&creativeId=TRheWoq8dHa&name=Slideshow%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/TRheWoq8dHa/952349328/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "slideshow---gaming-midcore.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Device - Gaming Midcore",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FprbV8Uhyfwl%2F574708222&companyId=ATtIV70kACD&creativeId=prbV8Uhyfwl&name=Device%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/prbV8Uhyfwl/574708222/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "device---gaming-midcore.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Product - Gaming Midcore",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F7GVitejrVDQ%2F32723725&companyId=ATtIV70kACD&creativeId=7GVitejrVDQ&name=Product%20-%20300x250&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/7GVitejrVDQ/32723725/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "product---gaming-midcore.png"
-  },
-  {
-    "Genre": "E-Commerce",
-    "Title": "Special E-commerce",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FG31K59OTSrc%2F917983853&companyId=ATtIV70kACD&creativeId=G31K59OTSrc&name=Special%20E-Commerce&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/G31K59OTSrc/917983853/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "special-e-commerce.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Slideshow - E-commerce",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F5A3FLizop5E%2F1747546130&companyId=ATtIV70kACD&creativeId=5A3FLizop5E&name=Slideshow%20E-Commerce&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/5A3FLizop5E/1747546130/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "slideshow---e-commerce.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Product - E-commerce",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F9gHQYcbbOhm%2F583971600&companyId=ATtIV70kACD&creativeId=9gHQYcbbOhm&name=Product%20E-Commerce&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/9gHQYcbbOhm/583971600/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "product---e-commerce.png"
-  },
-  {
-    "Genre": "Finance",
-    "Title": "Character - Finance",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F836LpWimh39%2F575888593&companyId=ATtIV70kACD&creativeId=836LpWimh39&name=Character%20-%20Finance&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/836LpWimh39/575888593/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "character---finance.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Device - Finance",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FixqZQX2aXwu%2F1599119721&companyId=ATtIV70kACD&creativeId=ixqZQX2aXwu&name=Device%20-%20Finance&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/ixqZQX2aXwu/1599119721/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "device---finance.png"
-  },
-  {
-    "Genre": "Travel",
-    "Title": "Device - Travel",
-    "URL": "https://play.preview.craftsmanplus.com/?playable=ATtIV70kACD%2FVsP7WgFUbAB%2F493323827&companyId=ATtIV70kACD&creativeId=VsP7WgFUbAB&name=Device%20-%20Travel&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/VsP7WgFUbAB/493323827/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "device---travel.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Slideshow - Travel",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FfjCQ3ig4lwf%2F1765781206&companyId=ATtIV70kACD&creativeId=fjCQ3ig4lwf&name=Slideshow%20-%20Travel&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/fjCQ3ig4lwf/1765781206/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "slideshow---travel.png"
-  },
-  {
-    "Genre": "RMG & Casinos",
-    "Title": "Device - RMG & Casino",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FtqxZueaDvS5%2F233049598&companyId=ATtIV70kACD&creativeId=tqxZueaDvS5&name=Device%20-%20RMG%20%26%20Casino&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/tqxZueaDvS5/233049598/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "device---rmg-&-casino.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Character - RMG & Casino",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F5I7qoWWoLa2%2F826805629&companyId=ATtIV70kACD&creativeId=5I7qoWWoLa2&name=Character%20-%20RMG%20%26%20Casing&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/5I7qoWWoLa2/826805629/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "character---rmg-&-casino.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Video - RMG & Casino",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FVTyjGcksoaS%2F1339164733&companyId=ATtIV70kACD&creativeId=VTyjGcksoaS&name=Video%20-%20RMG%20%26%20Casing&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/VTyjGcksoaS/1339164733/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "video---rmg-&-casino.png"
-  },
-  {
-    "Genre": "Sports",
-    "Title": "Special - Sports",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2F4VQgc4kz3NR%2F710045693&companyId=ATtIV70kACD&creativeId=4VQgc4kz3NR&name=Special%20-%20Sports&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/4VQgc4kz3NR/710045693/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "special---sports.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Video - Sports",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FKzkfsXLE92a%2F1002688761&companyId=ATtIV70kACD&creativeId=KzkfsXLE92a&name=Video%20-%20Sports&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/KzkfsXLE92a/1002688761/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "video---sports.png"
-  },
-  {
-    "Genre": "Food",
-    "Title": "Special - Food",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FTF1AF9Um3fp%2F903648758&companyId=ATtIV70kACD&creativeId=TF1AF9Um3fp&name=Special%20-%20Food&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/TF1AF9Um3fp/903648758/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "special---food.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Product - Food",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Faa2TVX0gpRo%2F1877460264&companyId=ATtIV70kACD&creativeId=aa2TVX0gpRo&name=Product%20-%20Food&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/aa2TVX0gpRo/1877460264/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "product---food.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Device - Food",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FrRW6DWklI5g%2F1438253348&companyId=ATtIV70kACD&creativeId=rRW6DWklI5g&name=Device%20-%20Food&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/rRW6DWklI5g/1438253348/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "device---food.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Video - Food",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2Fa4A8EWmP5zj%2F1792769547&companyId=ATtIV70kACD&creativeId=a4A8EWmP5zj&name=Video%20-%20Food&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/a4A8EWmP5zj/1792769547/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "video---food.png"
-  },
-  {
-    "Genre": "Service Providers",
-    "Title": "Special - Service Providers",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FgSqawruMHyR%2F690308506&companyId=ATtIV70kACD&creativeId=gSqawruMHyR&name=Special%20-%20Service%20Providers&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/gSqawruMHyR/690308506/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "special---service-providers.png"
-  },
-  {
-    "Genre": "Wellness",
-    "Title": "Special - Fitness & Wellness",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FNJsVNPzsCGO%2F1427863860&companyId=ATtIV70kACD&creativeId=NJsVNPzsCGO&name=Special%20-%20Fitness%20%26%20Wellness&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/NJsVNPzsCGO/1427863860/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "special---fitness-&-wellness.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Character - WEllness",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FIqkugCWSQf1%2F354982933&companyId=ATtIV70kACD&creativeId=IqkugCWSQf1&name=Character%20-%20Wellness&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/IqkugCWSQf1/354982933/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "character---wellness.png"
-  },
-  {
-    "Genre": null,
-    "Title": "Product - Wellness",
-    "URL": "https://play.preview.craftsmanplus.com/preview/?playable=ATtIV70kACD%2FaboRz14cIp2%2F1001983840&companyId=ATtIV70kACD&creativeId=aboRz14cIp2&name=Product%20-%20Wellness&portrait=false&ratio=300:250&type=html",
-    "Endpoint URL": "https://endpoints.prod.craftsmanplus.com/previews/ATtIV70kACD/aboRz14cIp2/1001983840/index.html",
-    "Complex / Advanced Option": false,
-    "Unnamed: 5": "Banner",
-    "thumbnail": "product---wellness.png"
-  }
+}
 ]
