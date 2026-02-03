@@ -1,126 +1,365 @@
-<script>
-  // path to your JSON in the root
-  const DATA_URL = 'Playable_Endpoint_URLs.json';
-  const THUMB_BASE = 'thumbnails/'; // where you put all the thumbs
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Playable Template Catalog</title>
 
-  fetch(DATA_URL)
-    .then(r => r.json())
-    .then(list => {
-      const container = document.getElementById('cards');
-      const countText = document.getElementById('countText');
-      countText.textContent = `Loaded ${list.length} templates.`;
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
 
-      list.forEach(item => {
-        // map your fields
-        const title = item["Title"] || "Untitled template";
-        const genre = item["Genre"] || "Other";
-        const previewUrl = item["URL"];             // real preview (open in new tab)
-        const endpointUrl = item["Endpoint URL"];   // goes into iframe
-        // your JSON has "item-slicer-png" so we add ".png"
-        let thumbName = item["thumbnail"];
-        if (thumbName) {
-          // avoid double .png
-          if (!thumbName.endsWith(".png") && !thumbName.endsWith(".jpg") && !thumbName.endsWith(".jpeg") && !thumbName.endsWith(".webp")) {
-            thumbName = thumbName + ".png";
-          }
+    <style>
+      :root {
+        --ink: #0f172a;
+        --muted: #64748b;
+        --border: #e2e8f0;
+        --card: #ffffff;
+        --bg: #f8fafc;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Space Grotesk", sans-serif;
+        color: var(--ink);
+        background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
+      }
+
+      .site-header {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        padding: 20px 28px;
+        border-bottom: 1px solid var(--border);
+        background: rgba(255, 255, 255, 0.9);
+        backdrop-filter: blur(6px);
+        position: sticky;
+        top: 0;
+        z-index: 10;
+      }
+
+      .site-logo {
+        height: 32px;
+        width: auto;
+      }
+
+      .site-title {
+        font-size: 20px;
+        font-weight: 600;
+        letter-spacing: 0.2px;
+      }
+
+      .main {
+        padding: 24px 28px 40px;
+      }
+
+      #countText {
+        color: var(--muted);
+        margin-bottom: 16px;
+      }
+
+      .content {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(320px, 40%);
+        gap: 24px;
+        align-items: start;
+      }
+
+      .cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 16px;
+      }
+
+      .card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+        display: grid;
+        grid-template-rows: auto 1fr;
+        cursor: pointer;
+      }
+
+      .thumb {
+        position: relative;
+        aspect-ratio: 16 / 9;
+        background: #e2e8f0;
+        display: grid;
+        place-items: center;
+        overflow: hidden;
+      }
+
+      .thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .no-preview {
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .ext-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        border: none;
+        background: rgba(15, 23, 42, 0.8);
+        color: white;
+        width: 30px;
+        height: 30px;
+        border-radius: 999px;
+        cursor: pointer;
+      }
+
+      .card-body {
+        padding: 14px 16px 16px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .card-title {
+        font-weight: 600;
+      }
+
+      .card-meta {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 4px 10px;
+        border-radius: 999px;
+        background: #e0f2fe;
+        color: #0369a1;
+        font-size: 12px;
+        font-weight: 600;
+      }
+
+      .play-btn {
+        border: none;
+        border-radius: 10px;
+        padding: 8px 12px;
+        background: #0ea5a4;
+        color: white;
+        font-weight: 600;
+        cursor: pointer;
+      }
+
+      .preview {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 16px;
+        box-shadow: 0 12px 32px rgba(15, 23, 42, 0.08);
+        display: grid;
+        gap: 12px;
+      }
+
+      #previewTitle {
+        font-weight: 600;
+        font-size: 16px;
+      }
+
+      .preview-frame {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: #0f172a;
+      }
+
+      .clear-btn {
+        border: 1px solid var(--border);
+        background: white;
+        border-radius: 10px;
+        padding: 8px 12px;
+        cursor: pointer;
+      }
+
+      @media (max-width: 900px) {
+        .content {
+          grid-template-columns: 1fr;
         }
+      }
+    </style>
+  </head>
 
-        const card = document.createElement('div');
-        card.className = 'card';
+  <body>
+    <header class="site-header">
+      <!-- UPDATED LOGO PATH HERE -->
+      <img
+        src="thumbnails/CraftsmanPlay-Light.png"
+        alt="Remerge"
+        class="site-logo"
+      />
+      <div class="site-title">Playable Template Catalog</div>
+    </header>
 
-        const thumb = document.createElement('div');
-        thumb.className = 'thumb';
+    <main class="main">
+      <div id="countText">Loaded 0 templates.</div>
 
-        if (thumbName) {
-          const img = document.createElement('img');
-          img.src = THUMB_BASE + thumbName;
-          img.alt = title;
-          img.onerror = () => {
-            img.remove();
-            const np = document.createElement('div');
-            np.className = 'no-preview';
-            np.textContent = 'No preview';
-            thumb.appendChild(np);
-          };
-          thumb.appendChild(img);
+      <div class="content">
+        <div id="cards" class="cards"></div>
+
+        <section class="preview">
+          <div id="previewTitle">Select a template</div>
+          <iframe
+            id="previewFrame"
+            class="preview-frame"
+            title="Template preview"
+          ></iframe>
+          <button class="clear-btn" type="button" onclick="clearPreview()">
+            Clear preview
+          </button>
+        </section>
+      </div>
+    </main>
+
+    <script>
+      // path to your JSON in the root
+      const DATA_URL = "Playable_Endpoint_URLs.json";
+      const THUMB_BASE = "thumbnails/"; // where you put all the thumbs
+
+      fetch(DATA_URL)
+        .then((r) => r.json())
+        .then((list) => {
+          const container = document.getElementById("cards");
+          const countText = document.getElementById("countText");
+          countText.textContent = `Loaded ${list.length} templates.`;
+
+          list.forEach((item) => {
+            // map your fields
+            const title = item["Title"] || "Untitled template";
+            const genre = item["Genre"] || "Other";
+            const previewUrl = item["URL"]; // real preview (open in new tab)
+            const endpointUrl = item["Endpoint URL"]; // goes into iframe
+
+            // your JSON has "item-slicer-png" so we add ".png"
+            let thumbName = item["thumbnail"];
+            if (thumbName) {
+              // avoid double .png
+              if (
+                !thumbName.endsWith(".png") &&
+                !thumbName.endsWith(".jpg") &&
+                !thumbName.endsWith(".jpeg") &&
+                !thumbName.endsWith(".webp")
+              ) {
+                thumbName = thumbName + ".png";
+              }
+            }
+
+            const card = document.createElement("div");
+            card.className = "card";
+
+            const thumb = document.createElement("div");
+            thumb.className = "thumb";
+
+            if (thumbName) {
+              const img = document.createElement("img");
+              img.src = THUMB_BASE + thumbName;
+              img.alt = title;
+              img.onerror = () => {
+                img.remove();
+                const np = document.createElement("div");
+                np.className = "no-preview";
+                np.textContent = "No preview";
+                thumb.appendChild(np);
+              };
+              thumb.appendChild(img);
+            } else {
+              const np = document.createElement("div");
+              np.className = "no-preview";
+              np.textContent = "No preview";
+              thumb.appendChild(np);
+            }
+
+            // external button → use URL
+            if (previewUrl) {
+              const ext = document.createElement("button");
+              ext.className = "ext-btn";
+              ext.title = "Open preview URL";
+              ext.innerHTML = "↗";
+              ext.onclick = (e) => {
+                e.stopPropagation();
+                window.open(previewUrl, "_blank");
+              };
+              thumb.appendChild(ext);
+            }
+
+            card.appendChild(thumb);
+
+            const body = document.createElement("div");
+            body.className = "card-body";
+
+            const titleEl = document.createElement("div");
+            titleEl.className = "card-title";
+            titleEl.textContent = title;
+
+            const meta = document.createElement("div");
+            meta.className = "card-meta";
+
+            const cat = document.createElement("span");
+            cat.className = "badge";
+            cat.textContent = genre;
+            meta.appendChild(cat);
+
+            const play = document.createElement("button");
+            play.className = "play-btn";
+            play.innerHTML = "▶︎ Play now";
+            play.onclick = (e) => {
+              e.stopPropagation();
+              loadPreview({ title, endpointUrl, previewUrl });
+            };
+
+            body.appendChild(titleEl);
+            body.appendChild(meta);
+            body.appendChild(play);
+
+            card.appendChild(body);
+
+            // clicking the card also loads preview
+            card.onclick = () => loadPreview({ title, endpointUrl, previewUrl });
+
+            container.appendChild(card);
+          });
+        })
+        .catch((err) => {
+          console.error("Error loading JSON", err);
+        });
+
+      function loadPreview(item) {
+        const frame = document.getElementById("previewFrame");
+        const title = document.getElementById("previewTitle");
+
+        // prefer endpoint for iframe
+        if (item.endpointUrl) {
+          frame.src = item.endpointUrl;
+        } else if (item.previewUrl) {
+          frame.src = item.previewUrl;
         } else {
-          const np = document.createElement('div');
-          np.className = 'no-preview';
-          np.textContent = 'No preview';
-          thumb.appendChild(np);
+          frame.src = "";
         }
+        title.textContent = item.title || "Untitled template";
+      }
 
-        // external button → use URL
-        if (previewUrl) {
-          const ext = document.createElement('button');
-          ext.className = 'ext-btn';
-          ext.title = 'Open preview URL';
-          ext.innerHTML = '↗';
-          ext.onclick = (e) => {
-            e.stopPropagation();
-            window.open(previewUrl, '_blank');
-          };
-          thumb.appendChild(ext);
-        }
-
-        card.appendChild(thumb);
-
-        const body = document.createElement('div');
-        body.className = 'card-body';
-
-        const titleEl = document.createElement('div');
-        titleEl.className = 'card-title';
-        titleEl.textContent = title;
-
-        const meta = document.createElement('div');
-        meta.className = 'card-meta';
-
-        const cat = document.createElement('span');
-        cat.className = 'badge';
-        cat.textContent = genre;
-        meta.appendChild(cat);
-
-        const play = document.createElement('button');
-        play.className = 'play-btn';
-        play.innerHTML = '▶︎ Play now';
-        play.onclick = (e) => {
-          e.stopPropagation();
-          loadPreview({ title, endpointUrl, previewUrl });
-        };
-
-        body.appendChild(titleEl);
-        body.appendChild(meta);
-        body.appendChild(play);
-
-        card.appendChild(body);
-
-        // clicking the card also loads preview
-        card.onclick = () => loadPreview({ title, endpointUrl, previewUrl });
-
-        container.appendChild(card);
-      });
-    })
-    .catch(err => {
-      console.error('Error loading JSON', err);
-    });
-
-  function loadPreview(item) {
-    const frame = document.getElementById('previewFrame');
-    const title = document.getElementById('previewTitle');
-
-    // prefer endpoint for iframe
-    if (item.endpointUrl) {
-      frame.src = item.endpointUrl;
-    } else if (item.previewUrl) {
-      frame.src = item.previewUrl;
-    } else {
-      frame.src = '';
-    }
-    title.textContent = item.title || 'Untitled template';
-  }
-
-  function clearPreview() {
-    document.getElementById('previewFrame').src = '';
-    document.getElementById('previewTitle').textContent = 'Select a template';
-  }
-</script>
+      function clearPreview() {
+        document.getElementById("previewFrame").src = "";
+        document.getElementById("previewTitle").textContent = "Select a template";
+      }
+    </script>
+  </body>
+</html>
