@@ -1,0 +1,126 @@
+<script>
+  // path to your JSON in the root
+  const DATA_URL = 'Playable_Endpoint_URLs.json';
+  const THUMB_BASE = 'thumbnails/'; // where you put all the thumbs
+
+  fetch(DATA_URL)
+    .then(r => r.json())
+    .then(list => {
+      const container = document.getElementById('cards');
+      const countText = document.getElementById('countText');
+      countText.textContent = `Loaded ${list.length} templates.`;
+
+      list.forEach(item => {
+        // map your fields
+        const title = item["Title"] || "Untitled template";
+        const genre = item["Genre"] || "Other";
+        const previewUrl = item["URL"];             // real preview (open in new tab)
+        const endpointUrl = item["Endpoint URL"];   // goes into iframe
+        // your JSON has "item-slicer-png" so we add ".png"
+        let thumbName = item["thumbnail"];
+        if (thumbName) {
+          // avoid double .png
+          if (!thumbName.endsWith(".png") && !thumbName.endsWith(".jpg") && !thumbName.endsWith(".jpeg") && !thumbName.endsWith(".webp")) {
+            thumbName = thumbName + ".png";
+          }
+        }
+
+        const card = document.createElement('div');
+        card.className = 'card';
+
+        const thumb = document.createElement('div');
+        thumb.className = 'thumb';
+
+        if (thumbName) {
+          const img = document.createElement('img');
+          img.src = THUMB_BASE + thumbName;
+          img.alt = title;
+          img.onerror = () => {
+            img.remove();
+            const np = document.createElement('div');
+            np.className = 'no-preview';
+            np.textContent = 'No preview';
+            thumb.appendChild(np);
+          };
+          thumb.appendChild(img);
+        } else {
+          const np = document.createElement('div');
+          np.className = 'no-preview';
+          np.textContent = 'No preview';
+          thumb.appendChild(np);
+        }
+
+        // external button → use URL
+        if (previewUrl) {
+          const ext = document.createElement('button');
+          ext.className = 'ext-btn';
+          ext.title = 'Open preview URL';
+          ext.innerHTML = '↗';
+          ext.onclick = (e) => {
+            e.stopPropagation();
+            window.open(previewUrl, '_blank');
+          };
+          thumb.appendChild(ext);
+        }
+
+        card.appendChild(thumb);
+
+        const body = document.createElement('div');
+        body.className = 'card-body';
+
+        const titleEl = document.createElement('div');
+        titleEl.className = 'card-title';
+        titleEl.textContent = title;
+
+        const meta = document.createElement('div');
+        meta.className = 'card-meta';
+
+        const cat = document.createElement('span');
+        cat.className = 'badge';
+        cat.textContent = genre;
+        meta.appendChild(cat);
+
+        const play = document.createElement('button');
+        play.className = 'play-btn';
+        play.innerHTML = '▶︎ Play now';
+        play.onclick = (e) => {
+          e.stopPropagation();
+          loadPreview({ title, endpointUrl, previewUrl });
+        };
+
+        body.appendChild(titleEl);
+        body.appendChild(meta);
+        body.appendChild(play);
+
+        card.appendChild(body);
+
+        // clicking the card also loads preview
+        card.onclick = () => loadPreview({ title, endpointUrl, previewUrl });
+
+        container.appendChild(card);
+      });
+    })
+    .catch(err => {
+      console.error('Error loading JSON', err);
+    });
+
+  function loadPreview(item) {
+    const frame = document.getElementById('previewFrame');
+    const title = document.getElementById('previewTitle');
+
+    // prefer endpoint for iframe
+    if (item.endpointUrl) {
+      frame.src = item.endpointUrl;
+    } else if (item.previewUrl) {
+      frame.src = item.previewUrl;
+    } else {
+      frame.src = '';
+    }
+    title.textContent = item.title || 'Untitled template';
+  }
+
+  function clearPreview() {
+    document.getElementById('previewFrame').src = '';
+    document.getElementById('previewTitle').textContent = 'Select a template';
+  }
+</script>
